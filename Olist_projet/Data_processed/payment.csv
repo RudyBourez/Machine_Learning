@@ -1,0 +1,5 @@
+payment_type, value
+credit_card, 0
+boleto, 1
+voucher, 2
+debit_card, 3
